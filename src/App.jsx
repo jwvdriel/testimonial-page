@@ -4,7 +4,7 @@ function App() {
       <div className='main-container'>
         <div className='card'>
           <div className='profile'>
-            <img src='../public/Profile Thumbnail.svg' alt='profile image' />
+            <img src='./public/Profile Thumbnail.svg' alt='profile image' />
             <div className='text-pair'>
               <figcaption className='profile-name'>Sarah Dole</figcaption>
               <figcaption className='profile-text'>@sarahdole</figcaption>
