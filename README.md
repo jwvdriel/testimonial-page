@@ -3,9 +3,10 @@
 Simple Html project for a testimonial card
 
 breakpoints:
-dekstop -> 1280px
-tablet -> 768px
-mobile -> 375px
+
+- dekstop -> 1280px
+- tablet -> 768px
+- mobile -> 375px
 
 # React + Vite
 
