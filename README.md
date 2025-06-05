@@ -1,3 +1,12 @@
+# testimonial card
+
+Simple Html project for a testimonial card
+
+breakpoints:
+dekstop -> 1280px
+tablet -> 768px
+mobile -> 375px
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
